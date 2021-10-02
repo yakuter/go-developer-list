@@ -4,6 +4,8 @@ Bu doküman [şu tweet](https://twitter.com/yakuter/status/1439963988465434638) 
 
 Listede güncelleme yapmak için Pull Request gönderebilirsiniz.
 
+Go Türkiye Topluluğu: https://kommunity.com/goturkiye
+
 | Sıra No | Ad Soyad                             | Şirket                                       | Sosyal Medya/İletişim                                                                                                                                             | Açıklama                                                                                                                                                                                                                |
 |---------|--------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    1    | Erhan Yakut                          | Binalyze                                     | https://twitter.com/yakuter                                                                                                                                       | (yakuter) - Çalışmayan arkadaşlar da olabilir. Şirket kısmına - yazabilirsiniz.                                                                                                                                         |
