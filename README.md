@@ -1,6 +1,6 @@
 # Türkiye Go Dili Geliştirici Listesi
 
-Bu doküman [şu tweet](https://twitter.com/yakuter/status/1439963988465434638) ile başlamış olup **Türkiye'deki Go Programlama Dili geliştiricilerini tek bir çatı altında toplamak** amacıyla oluşturulmuş ve geliştiricilerin kendilerini [şuradaki](https://docs.google.com/spreadsheets/d/1loR_i7d4NvUYvRv9SwCL-FsmV9c2OgefGGJamejCcUs/edit?usp=sharing) Google Sheets dokümanına eklemesiyle şekillenmiştir.
+Bu doküman [şu tweet](https://twitter.com/yakuter/status/1439963988465434638) ile başlamış olup **Türkiye'deki Go Programlama Dili geliştiricilerini tek bir çatı altında toplamak** amacıyla [şuradaki](https://docs.google.com/spreadsheets/d/1loR_i7d4NvUYvRv9SwCL-FsmV9c2OgefGGJamejCcUs/edit?usp=sharing) Google Sheets dokümanı kullanılarak oluşturulmuştur.
 
 Listede güncelleme yapmak için Pull Request gönderebilirsiniz.
 
