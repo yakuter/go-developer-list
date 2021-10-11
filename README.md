@@ -306,3 +306,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   294   | Abdulaziz Erel                       | NeviTech                                     | https://www.linkedin.com/in/azizerel/                                                                                                                             | 4+ yıl Java. Go'da yeniyim                                                                                                                                                                                              |
 |   295   | İsmail E. Sırmalı | Zaxe | https://www.linkedin.com/in/lynicis | I'm mainly working with JavaScript but if i've free time play with GoLang at these times. |
 |   296   | Umutcan Sevdi | egaranti | https://www.linkedin.com/in/umut-sevdi | Çoğunlukla Java yazıyorum, Yakın zamanda Go'ya başladım.  |
+|   297   | Caner Başaran | Setur | https://linkedin.com/in/canerbasaran |   |
