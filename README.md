@@ -310,3 +310,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   298   | Emirhan Öztürk | - | https://www.linkedin.com/in/emirhanozturkk/ | Bir süredir Java yazıyorum.Yakın zamanda Go öğrenmeye başladım. Staj tekliflerine açığım. | 
 |   299   | Fatih Mücahid Akgün | Linktera | https://www.linkedin.com/in/fatih-mucahid-akgun/ | +1 Yıl RPA Development. Go Başlangıç Seviye. Eğitimlere ve gelişime açığım. | 
 |   300   | Yesim Dündar | - | https://www.linkedin.com/in/ykdundar/ | Programlamaya Go öğrenerek başladım, hala öğrenmeye devam ediyorum. |
+|   301   | Oğuzhan Durgut | - | https://www.linkedin.com/in/odurgut ogzhandurgut@gmail.com | Junior - Python , Go  |
