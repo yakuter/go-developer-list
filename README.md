@@ -312,5 +312,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   300   | Yesim Dündar | - | https://www.linkedin.com/in/ykdundar/ | Programlamaya Go öğrenerek başladım, hala öğrenmeye devam ediyorum. |
 |   301   | Oğuzhan Durgut | - | https://www.linkedin.com/in/odurgut ogzhandurgut@gmail.com | Junior - Python , Go  |
 |   302   | Cihan Cengiz | Aytemiz | https://www.linkedin.com/in/cihan-cengiz-994865129 | Junior Gopher |
-|   302   | Ahmet Şenharputlu | Monopayments | https://www.linkedin.com/in/ahmetsenharputlu | Backend Go Developer 2~ yıl. |
-
+|   303   | Ahmet Şenharputlu | Monopayments | https://www.linkedin.com/in/ahmetsenharputlu | Backend Go Developer 2~ yıl. |
