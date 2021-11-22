@@ -314,3 +314,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   302   | Cihan Cengiz | Aytemiz | https://www.linkedin.com/in/cihan-cengiz-994865129 | Junior Gopher |
 |   303   | Ahmet Şenharputlu | Monopayments | https://www.linkedin.com/in/ahmetsenharputlu | Backend Go Developer 2~ yıl. |
 | 304 | Erman İmer | Getir | [GitHub](https://github.com/ermanimer), [LinkedIn](https://www.linkedin.com/in/erman-imer-7958091b5/), [Medium](http://medium.com/@ermanimer) | Golang Developer |
+|   305   | Tevfik Kadan | egaranti | https://www.linkedin.com/in/tevfikkadan/ | Çoğunlukla Java, Javascript. Bir süredir Go. |
