@@ -316,4 +316,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   304   | Buğra AYDIN | - | https://www.linkedin.com/in/fuatbugraaydin/ | Start learning GO to develop dreams |
 |   305   | Erman İmer | Getir | [GitHub](https://github.com/ermanimer), [LinkedIn](https://www.linkedin.com/in/erman-imer-7958091b5/), [Medium](http://medium.com/@ermanimer) | Golang Developer |
 |   306   | Tevfik Kadan | egaranti | https://www.linkedin.com/in/tevfikkadan/ | Çoğunlukla Java, Javascript. Bir süredir Go. |
-
+|   307   | Erdoğan Akdeniz | - | https://www.linkedin.com/in/erdoganakdeniz/ | Go Developer | 
