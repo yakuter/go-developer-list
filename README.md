@@ -317,3 +317,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   306   | Erman İmer | Getir | [GitHub](https://github.com/ermanimer), [LinkedIn](https://www.linkedin.com/in/erman-imer-7958091b5/), [Medium](http://medium.com/@ermanimer) | Golang Developer |
 |   307   | Tevfik Kadan | egaranti | https://www.linkedin.com/in/tevfikkadan/ | Çoğunlukla Java, Javascript. Bir süredir Go. |
 |   308   | Erdoğan Akdeniz | - | https://www.linkedin.com/in/erdoganakdeniz/ | Go Developer | 
+|   309   | Muhammed Efe Çetin | - | [GitHub](https://github.com/efectn) | Backend Developer
