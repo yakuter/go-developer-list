@@ -320,3 +320,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   309   | Muhammed Efe Çetin | - | [GitHub](https://github.com/efectn) | Backend Developer |
 |   310   | Kadir Deniz | - | [GitHub](https://github.com/kadirdeniz) [Linkedin](https://www.linkedin.com/in/kadir-deniz-4b254b1bb/) | Backend Developer |
 |   311   | Sertan Gülveren | Global Miles | [sertan.me](https://sertan.me) \| [GitHub](https://github.com/sertangulveren) \| [LinkedIn](https://www.linkedin.com/in/sertangulveren) | 1 yıldır vakit buldukça Go ile çalışmalar yapıyorum + yeni şeyler öğreniyorum. |
+|   312   | Caner Gülay | - | [GitHub](https://github.com/canergulay)  [Linkedin](https://www.linkedin.com/in/canergulay/) | Backend - Go - System Architecture - Cloud üzerine geliştirmeler yapmak istiyorum |
