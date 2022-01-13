@@ -323,3 +323,6 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   312   | Caner Gülay | - | [GitHub](https://github.com/canergulay)  [Linkedin](https://www.linkedin.com/in/canergulay/) | Backend - Go - System Architecture - Cloud üzerine geliştirmeler yapmak istiyorum |
 |   313   | Hüseyin Karabaş | - | [yinkar.github.io](https://yinkar.github.io) - [GitHub](https://github.com/yinkar) -  [Linkedin](https://www.linkedin.com/in/yinkar/) | Başlangıç |
 |   314   | Hüseyin Kabil | Akinon | [LinkedIn](https://www.linkedin.com/in/huseyinkabil/) \| [GitHub](https://github.com/huseyinkabil/) | Onceki calistigim sirkette aktif olarak go yazdim. Su an sadece hobi olarak ilgileniyorum. |
+|   315   | Cenk Köroğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/cenk-koroglu/) - [GitHub](https://github.com/cenkkoroglu) | |
+|   316   | Onur Harputluoğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/onurharputluoglu/) - [GitHub](https://github.com/onurh) | |
+|   317   | Mete Bayıllıoğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/mete-bay%C4%B1ll%C4%B1o%C4%9Flu-7255335b/) - [GitHub](https://github.com/metebayillioglu) | |
