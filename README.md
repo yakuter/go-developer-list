@@ -324,3 +324,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   313   | Hüseyin Karabaş | - | [yinkar.github.io](https://yinkar.github.io) - [GitHub](https://github.com/yinkar) -  [Linkedin](https://www.linkedin.com/in/yinkar/) | Başlangıç |
 |   314   | Hüseyin Kabil | Akinon | [LinkedIn](https://www.linkedin.com/in/huseyinkabil/) \| [GitHub](https://github.com/huseyinkabil/) | Onceki calistigim sirkette aktif olarak go yazdim. Su an sadece hobi olarak ilgileniyorum. |
 |   315   | M.Atıf Ceylan | AppstoniA - Yurdum Yazılım | [LinkedIn](https://www.linkedin.com/in/atifceylan/) \| [GitHub](https://github.com/atifceylan/) | Başlangıç düzeyi. |
+|   316   | Emre Arısoy | Muni Yazılım | [LinkedIn](https://www.linkedin.com/in/emre-ibrahim-ar%C4%B1soy/) \| [GitHub](https://github.com/eibrahimarisoy) | Yeni öğreniyorum. |
