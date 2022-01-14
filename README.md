@@ -325,3 +325,6 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   314   | Hüseyin Kabil | Akinon | [LinkedIn](https://www.linkedin.com/in/huseyinkabil/) \| [GitHub](https://github.com/huseyinkabil/) | Onceki calistigim sirkette aktif olarak go yazdim. Su an sadece hobi olarak ilgileniyorum. |
 |   315   | M.Atıf Ceylan | AppstoniA - Yurdum Yazılım | [LinkedIn](https://www.linkedin.com/in/atifceylan/) \| [GitHub](https://github.com/atifceylan/) | Başlangıç düzeyi. |
 |   316   | Barış Akdaş | Digitürk-BeIn Media | [LinkedIn](https://www.linkedin.com/in/barisakdas/) \| [GitHub](https://github.com/barisakdas) | 1+ yıldır go ile çalışmalar yapıyorum. Daha önce C# yazıyordum, hobi olarak başlamıştım. Ama artık şirketimde ve kendi projelerimde aktif olarak kullandığım dillerden birisi konumunda. |
+|   317   | Cenk Köroğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/cenk-koroglu/) - [GitHub](https://github.com/cenkkoroglu) | |
+|   318   | Onur Harputluoğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/onurharputluoglu/) - [GitHub](https://github.com/onurh) | |
+|   319   | Mete Bayıllıoğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/mete-bay%C4%B1ll%C4%B1o%C4%9Flu-7255335b/) - [GitHub](https://github.com/metebayillioglu) | |
