@@ -328,3 +328,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   317   | Cenk Köroğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/cenk-koroglu/) - [GitHub](https://github.com/cenkkoroglu) | |
 |   318   | Onur Harputluoğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/onurharputluoglu/) - [GitHub](https://github.com/onurh) | |
 |   319   | Mete Bayıllıoğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/mete-bay%C4%B1ll%C4%B1o%C4%9Flu-7255335b/) - [GitHub](https://github.com/metebayillioglu) | |
+|   320   | Emre Arısoy | Muni Yazılım | [LinkedIn](https://www.linkedin.com/in/emre-ibrahim-ar%C4%B1soy/) \| [GitHub](https://github.com/eibrahimarisoy) | Yeni öğreniyorum. |
