@@ -330,3 +330,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 |   319   | Mete Bayıllıoğlu | Delivery Hero / Yemek Sepeti / Marketyo | [LinkedIn](https://www.linkedin.com/in/mete-bay%C4%B1ll%C4%B1o%C4%9Flu-7255335b/) - [GitHub](https://github.com/metebayillioglu) | |
 |   320   | Emre Arısoy | Muni Yazılım | [LinkedIn](https://www.linkedin.com/in/emre-ibrahim-ar%C4%B1soy/) \| [GitHub](https://github.com/eibrahimarisoy) | Yeni öğreniyorum. |
 |   321   | Mehmet Han Gülter | Renault Group | https://www.linkedin.com/in/mehmethangulter/ | yaklaşık 1 yıl go tecrübesi, 4. sınıf bilgisayar mühendisliği öğrencisiyim |
+|   322   | Atila Pehlivan | Rh+ | [LinkedIn](https://www.linkedin.com/in/atilla-pehlivan/) \| [GitHub](https://github.com/AtillaPehlivan) \| [Twitter](https://twitter.com/Atilla_Phlvn) | 4+ Yıl Php,Js, 5+ ay GoLang, 1+ yıl Dart, FullStack Developoer |
