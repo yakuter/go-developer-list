@@ -1,4 +1,6 @@
-# Türkiye Go Dili Geliştirici Listesi
+# ![Go Logosu](https://github.com/KaganCanSit/go-developer-list/blob/main/Images/Icon/GOPng.png) Türkiye Go Dili Geliştirici Listesi
+
+Go dilini incelemek ve keşfetmek için [Go Resmi Sayfası](https://go.dev/).
 
 Bu doküman [şu tweet](https://twitter.com/yakuter/status/1439963988465434638) ile başlamış olup **Türkiye'deki Go Programlama Dili geliştiricilerini tek bir çatı altında toplamak** amacıyla [şuradaki](https://docs.google.com/spreadsheets/d/1loR_i7d4NvUYvRv9SwCL-FsmV9c2OgefGGJamejCcUs/edit?usp=sharing) Google Sheets dokümanı kullanılarak oluşturulmuştur.
 
@@ -9,6 +11,7 @@ Ankara Gophers Topluluğu : https://kommunity.com/ankara-gophers
 
 Go'ya dair yeni bilgiler edinmek veya bilginizi paylaşmak amacıyla Kommunity üzerinden yukarıdaki topluluklara dahil olabilir. "Gophers" buluşmalarında yerinizi alabilirsiniz.   
 Örneğin: https://kommunity.com/ankara-gophers/events/ankara-gophers-3-45ae946b 
+
 
 | Sıra No | Ad Soyad                  | Şirket                                       | Sosyal Medya/İletişim                                                                                                                                             | Açıklama                                                                                                                                                                                                                |
 | ------- | ------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
