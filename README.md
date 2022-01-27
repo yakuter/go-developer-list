@@ -334,4 +334,5 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 324     | Mustafa ALP               | Foreks                                       | [LinkedIn](https://www.linkedin.com/in/alpmusti) \| [GitHub](https://github.com/alpmusti)                                                                         |                                                                                                                                                                                                                         |
 | 325     | Kadir Zabun               | -                                             | [LinkedIn](https://www.linkedin.com/in/kadirzabun/) \| [GitHub](https://github.com/ZabunKadir) | Go Developer |
 | 326     | Burak Seçer               | Delivery Hero / Yemeksepeti                   | [LinkedIn](https://www.linkedin.com/in/buraksecer/) \| [GitHub](https://github.com/buraksecer) | Go go go |
-| 326 | Şafak Çıplak | Teknasyon Tech | https://github.com/safciplak | |
+| 327     | Şafak Çıplak | Teknasyon Tech | https://github.com/safciplak | |
+| 328     | Selahattin Ceylan | - | [LinkedIn](https://www.linkedin.com/in/selahattin-ceylan-b8573314a/) \ [GitHub](https://github.com/Selahattinn) | 3 yıldır Go ile yazılımlar  geliştiriyorum||
