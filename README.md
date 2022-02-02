@@ -336,3 +336,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 326     | Burak Seçer               | Delivery Hero / Yemeksepeti                   | [LinkedIn](https://www.linkedin.com/in/buraksecer/) \| [GitHub](https://github.com/buraksecer) | Go go go |
 | 327     | Şafak Çıplak | Teknasyon Tech | https://github.com/safciplak | |
 | 328     | Selahattin Ceylan | - | [LinkedIn](https://www.linkedin.com/in/selahattin-ceylan-b8573314a/) \ [GitHub](https://github.com/Selahattinn) | 3 yıldır Go ile yazılımlar  geliştiriyorum||
+| 329     | Alperen Çetin | - | [Github](https://github.com/Xacnio) \| [LinkedIn](https://www.linkedin.com/in/alperenitec) | Go'da başlangıç seviyesi ||
