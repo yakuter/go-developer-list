@@ -337,3 +337,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 327     | Şafak Çıplak | Teknasyon Tech | https://github.com/safciplak | |
 | 328     | Selahattin Ceylan | - | [LinkedIn](https://www.linkedin.com/in/selahattin-ceylan-b8573314a/) \ [GitHub](https://github.com/Selahattinn) | 3 yıldır Go ile yazılımlar  geliştiriyorum||
 | 329     | Alperen Çetin | - | [Github](https://github.com/Xacnio) \| [LinkedIn](https://www.linkedin.com/in/alperenitec) | Go'da başlangıç seviyesi ||
+| 330     | Erdal Burak Çınar| Ciceksepeti | [LinkedIn](https://www.linkedin.com/mwlite/in/erdal-burak-cinar) \ [GitHub](https://github.com/nowo)  \ [Twitter](https://mobile.twitter.com/erdalburakcinar)  | Yaklasik 2 yıldır Go ile ugrasiyorum, profesyonel olarak da ios developer olarak calisiyorum||
