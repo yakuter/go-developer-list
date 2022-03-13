@@ -340,3 +340,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 330     | Erdal Burak Çınar| Ciceksepeti | [LinkedIn](https://www.linkedin.com/mwlite/in/erdal-burak-cinar) \ [GitHub](https://github.com/nowo)  \ [Twitter](https://mobile.twitter.com/erdalburakcinar)  | Yaklasik 2 yıldır Go ile ugrasiyorum, profesyonel olarak da ios developer olarak calisiyorum||
 | 331     | Selman Tunç | - | [LinkedIn](https://www.linkedin.com/in/selmantunc/) \ [GitHub](https://github.com/stnc) | GO developer||
 | 332     | Furkan KARACA | - | [Github](https://github.com/fukaraca) | Mekatronik mühendisi, backend developer olmak üzere Ağustos 2021'den beri GO öğreniyor.
+| 333     | Süleyman KARAKAŞOĞLU | Getir | [Github](https://github.com/skarakasoglu) \ [LinkedIn](https://www.linkedin.com/in/suleymankarakasoglu/) \ [Twitter](https://twitter.com/segfault1337) | 3.5 senedir Golang developer. C++, Java ve .NET ile 6 yıllık tecrübe.
