@@ -341,7 +341,8 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 331     | Selman Tunç | - | [LinkedIn](https://www.linkedin.com/in/selmantunc/) \ [GitHub](https://github.com/stnc) | GO developer||
 | 332     | Furkan KARACA | - | [Github](https://github.com/fukaraca) | Mekatronik mühendisi, backend developer olmak üzere Ağustos 2021'den beri GO öğreniyor.
 | 333     | Süleyman KARAKAŞOĞLU | Getir | [Github](https://github.com/skarakasoglu) \ [LinkedIn](https://www.linkedin.com/in/suleymankarakasoglu/) \ [Twitter](https://twitter.com/segfault1337) | 3.5 senedir Golang developer. C++, Java ve .NET ile 6 yıllık tecrübe.
-| 334     | Ahmet Turkmen | BMW | { [Blog](https://mrturkmen.com) } { [Github](github.com/mrtrkmn) } { [Linkedin](https://www.linkedin.com/in/mrturkmen/) }  | 
-| 335     | Kaan Mercan | Turknet | [Twitter](https://twitter.com/mercandev) & [Github](https://github.com/mercandev) & [Linkedin](https://www.linkedin.com/in/kaanmercan/)  | Network projeleri ağırlıklı olmak üzere 1 yıldır Go ile geliştirme yapıyorum. 
-| 336     | Cem Ulus | - | [Github](https://github.com/cemulus) \| [LinkedIn](https://www.linkedin.com/in/ulus) |
-| 337     | Mücahit KURTLAR | - | [Linkedin](https://www.linkedin.com/in/mucahitkurtlar/) \| [Github](https://github.com/mucahitkurtlar/) | 2 yıldır Go kullanarak network, image processing konuları başta olmak üzere geliştirme yapıyorum
+| 334     | Ahmet Karadağ | -   | [Github](https://github.com/ahmetikrdg) \|  [LinkedIn](https://www.linkedin.com/in/ahmetkaradag/) \|  [Twitter](https://twitter.com/ahmetikrdg) \| [Youtube](https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw/featured) | C# .Net Core ve Java geliştiriyordum şuan Golang yazıyor ve gelişimimi sürdürüyorum. |
+| 335     | Ahmet Turkmen | BMW | { [Blog](https://mrturkmen.com) } { [Github](github.com/mrtrkmn) } { [Linkedin](https://www.linkedin.com/in/mrturkmen/) }  | 
+| 336     | Kaan Mercan | Turknet | [Twitter](https://twitter.com/mercandev) & [Github](https://github.com/mercandev) & [Linkedin](https://www.linkedin.com/in/kaanmercan/)  | Network projeleri ağırlıklı olmak üzere 1 yıldır Go ile geliştirme yapıyorum. 
+| 337     | Cem Ulus | - | [Github](https://github.com/cemulus) \| [LinkedIn](https://www.linkedin.com/in/ulus) |
+| 338     | Mücahit KURTLAR | - | [Linkedin](https://www.linkedin.com/in/mucahitkurtlar/) \| [Github](https://github.com/mucahitkurtlar/) | 2 yıldır Go kullanarak network, image processing konuları başta olmak üzere geliştirme yapıyorum
