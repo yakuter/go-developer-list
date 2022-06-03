@@ -343,3 +343,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 333     | Süleyman KARAKAŞOĞLU | Getir | [Github](https://github.com/skarakasoglu) \ [LinkedIn](https://www.linkedin.com/in/suleymankarakasoglu/) \ [Twitter](https://twitter.com/segfault1337) | 3.5 senedir Golang developer. C++, Java ve .NET ile 6 yıllık tecrübe.
 | 334     | Ahmet Turkmen | BMW | { [Blog](https://mrturkmen.com) } { [Github](github.com/mrtrkmn) } { [Linkedin](https://www.linkedin.com/in/mrturkmen/) }  | 
 | 335     | Kaan Mercan | Turknet | [Twitter](https://twitter.com/mercandev) & [Github](https://github.com/mercandev) & [Linkedin](https://www.linkedin.com/in/kaanmercan/)  | Network projeleri ağırlıklı olmak üzere 1 yıldır Go ile geliştirme yapıyorum. 
+| 336     | Cem Ulus | - | [Github](https://github.com/cemulus) \| [LinkedIn](https://www.linkedin.com/in/ulus) |
