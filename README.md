@@ -344,3 +344,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 334     | Ahmet Turkmen | BMW | { [Blog](https://mrturkmen.com) } { [Github](github.com/mrtrkmn) } { [Linkedin](https://www.linkedin.com/in/mrturkmen/) }  | 
 | 335     | Kaan Mercan | Turknet | [Twitter](https://twitter.com/mercandev) & [Github](https://github.com/mercandev) & [Linkedin](https://www.linkedin.com/in/kaanmercan/)  | Network projeleri ağırlıklı olmak üzere 1 yıldır Go ile geliştirme yapıyorum. 
 | 336     | Cem Ulus | - | [Github](https://github.com/cemulus) \| [LinkedIn](https://www.linkedin.com/in/ulus) |
+| 337     | Mücahit KURTLAR | - | [Linkedin](https://www.linkedin.com/in/mucahitkurtlar/) \| [Github](https://github.com/mucahitkurtlar/) | 2 yıldır Go kullanarak network, image processing konuları başta olmak üzere geliştirme yapıyorum
