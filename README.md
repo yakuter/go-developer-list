@@ -347,4 +347,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 337     | Cem Ulus | - | [Github](https://github.com/cemulus) \| [LinkedIn](https://www.linkedin.com/in/ulus) |
 | 338     | Mücahit KURTLAR | - | [Linkedin](https://www.linkedin.com/in/mucahitkurtlar/) \| [Github](https://github.com/mucahitkurtlar/) | 2 yıldır Go kullanarak network, image processing konuları başta olmak üzere geliştirme yapıyorum
 | 339     | Ajiyba Nesij KORKMAZ | - | [Linkedin](https://www.linkedin.com/in/ajiybanesij/) \| [Github](https://github.com/ajiybanesij)\| [Medium](https://medium.com/@ajiybanesij) | Blockchain alanında Go ve NodeJS ile geliştirmeler yapmaktayım.
-| 340     | Semih YILMAZ | İmgesoft |[Linkedin](https://www.linkedin.com/semihyilmaz) [Blog](https://semihyilmaz.com) | Backend Uygulamaları
+| 340     | Semih YILMAZ | İmgesoft |[Linkedin](https://www.linkedin.com/in/semihyilmaz) [Blog](https://semihyilmaz.com) | Backend Uygulamaları
