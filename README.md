@@ -352,7 +352,7 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 342     | Yusuf Ali Koyuncu         | -                                            | [Linkedin](https://www.linkedin.com/in/yusuf-ali-koyuncu/) \| [Github](https://github.com/JimySheepman)\|                                                                                  | +1 Backend, Distributed Systems                                                                                                                                                          |
 | 343     | Semih YILMAZ              | İmgesoft  | [Linkedin](https://www.linkedin.com/in/semihyilmaz) [Blog](https://semihyilmaz.com) | Backend Uygulamaları
 
- 344     | Mehmet Yavuz YAGIS             | -  | [Linkedin]([https://www.linkedin.com/in/myavuzyagis/](https://www.linkedin.com/in/myavuzyagis/)) [Blog](https://yavuzyagis.com) | Red Teaming Tools/ Microservices. Ikisi de WIP
+| 344     | Mehmet Yavuz YAGIS             | -  | [Linkedin]([https://www.linkedin.com/in/myavuzyagis/](https://www.linkedin.com/in/myavuzyagis/)) [Blog](https://yavuzyagis.com) | Red Teaming Tools/ Microservices. Ikisi de WIP
 
 
 
