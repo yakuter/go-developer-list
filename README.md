@@ -357,3 +357,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 347     | Batuhan AVLAYAN           | Akbank                                       | [Linkedin](https://www.linkedin.com/in/batuhan-avlayan-854b065b/) \| [Blog](http://www.batuhanavlayan.com) \| [Twitter](https://twitter.com/batuhan_avlayan) | New Gopher
 | 348     | Muhammed Said Kaya        | kloia                                        | [Linkedin](https://www.linkedin.com/in/muhammedsaidkaya/) [Github](https://github.com/muhammedsaidkaya) | Platform projelerinde Go ile geliştirme yapmaktayım.
 | 349     | Ömer Faruk Azat           | Gaye Bilişim                                 | [Linkedin](https://www.linkedin.com/in/omrfrkazt/) | Her türlü halı kilim travel
+| 350     | Mehmet Yavuz YAGIS        | -                                            | [Linkedin](https://www.linkedin.com/in/myavuzyagis)\| [Blog](https://yavuzyagis.com) | Red Teaming Tools/ Microservices. Ikisi de WIP
