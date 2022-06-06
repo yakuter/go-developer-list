@@ -355,3 +355,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 345	    | Şafak Kızkın			        | CHOMAR Antivirus                             | [Linkedin](https://www.linkedin.com/in/safakkizkin) [Personal](https://safak.dev) [Twitter](https://twitter.com/safakkizkin) |
 | 346     | Hakan ŞEN                 | -                                            |[Linkedin](https://www.linkedin.com/in/hakansen35)|
 | 347     | Batuhan AVLAYAN           | Akbank                                       | [Linkedin](https://www.linkedin.com/in/batuhan-avlayan-854b065b/) \| [Blog](http://www.batuhanavlayan.com) \| [Twitter](https://twitter.com/batuhan_avlayan) | New Gopher
+| 348     | Muhammed Said Kaya        | kloia                                        | [Linkedin](https://www.linkedin.com/in/muhammedsaidkaya/) [Github](https://github.com/muhammedsaidkaya) | Platform projelerinde Go ile geliştirme yapmaktayım.
