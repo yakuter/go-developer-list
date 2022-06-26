@@ -362,7 +362,7 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 352     | Ali Ergüç                 | Liberta Software Inc.                        | [Linkedin](https://www.linkedin.com/in/ali-erg%C3%BC%C3%A7-972ba6164/) & [GitHub](https://github.com/alierguc) & [HackerRank](https://www.hackerrank.com/alierguc1)                                                           | FullStack Software Developer - Junior Go Developer                                                                                                                                                                                    |
 | 353     | Kadir GÖNEN               | Hareketlen Medikal                           | [Linkedin](https://www.linkedin.com/in/kadirgonen/) \| [Github](https://github.com/kadirgonen) \| [Twitter](https://twitter.com/kadirgonen3) \| [Medium](https://medium.com/@kadirgnen)                                       | Yaklaşık 6 aydır Go öğreniyorum. Bunun dışında Python ve ile ilgili proje geliştirmeye çalışıyorum.   |
 | 354 | Ali GOREN | Enuygun | [Linkedin](https://www.linkedin.com/in/gorenali) \| [Github](https://github.com/aligoren) \| [Twitter](https://twitter.com/yazilimci_adam) \| [Medium](https://medium.com/@aligoren) | Yaklaşık 1 yıldır Go ile hobi çalışmaları yapıyorum. Şu anda Enuygun bünyesinde Go kullanarak microservice projelerine katkı sağlamaya çalışmaktayım   |
-| 355     | Serhan KARAKOÇ              | ZATRANO  | [Linkedin](https://www.linkedin.com/in/serhankarakoc) | Fullstack Developer |
+| 355     | Serhan KARAKOÇ              | ZATRANO  | [Linkedin](https://www.linkedin.com/in/serhankarakoc) \| [Github](https://github.com/serhankarakoc) | Fullstack Developer |
 
 
 
