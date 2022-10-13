@@ -371,4 +371,5 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 361     | İlker Rişvan              | Delivery Hero / Yemeksepeti                  | [Linkedin](https://www.linkedin.com/in/ilkerrisvan/) & [GitHub](https://github.com/ilkerrisvan)|                                                                                                                             |                                                                        
 | 362     | Berkin Gürcan             |   -                                 |[Linkedin](https://www.linkedin.com/in/berkin-gurcan) & [Github](https://github.com/berkingurcan) | Blockchain Developer, Cosmos ile ilgileniyorum. Henüz başlangıç seviyesi :) |
 | 363     | Mehmet Taş               | Hepsiburada                  | [Linkedin](https://www.linkedin.com/in/tasmehmet/)
-| 361 | Ali ÜNLÜ   |   -   | aliunluml.github.io  | Go Baslangic duzeyi |
+| 364 | Ali ÜNLÜ   |   -   | aliunluml.github.io  | Go Baslangic duzeyi |
+| 365     | Yiğitcan Balçın           | Seavus & Fevo                                       | [Linkedin](https://www.linkedin.com/in/yigitcan-balcin/) \| [Github](https://github.com/ybalcin)
