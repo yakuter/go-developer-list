@@ -373,3 +373,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 363     | Mehmet Taş               | Hepsiburada                  | [Linkedin](https://www.linkedin.com/in/tasmehmet/)
 | 364 | Ali ÜNLÜ   |   -   | aliunluml.github.io  | Go Baslangic duzeyi |
 | 365     | Yiğitcan Balçın           | Seavus & Fevo                                       | [Linkedin](https://www.linkedin.com/in/yigitcan-balcin/) \| [Github](https://github.com/ybalcin)
+| 366     | Ali Furkan Gökçe          | Yapıradar                                    | [Linkedin](https://www.linkedin.com/in/ali-furkan-g%C3%B6k%C3%A7e-a4604a147/) \| [Github](https://github.com/alifurkangokce) \| [Medium](https://medium.com/@alifurkangokce) | Backend Developer |                                              |
