@@ -383,4 +383,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 373     | Hasan Kılıcı              | Freelance                                   | [Github](https://github.com/hasan-kilici)         | Fullstack Developer
 | 374     | Muhammet Şahin ADİBAŞ     | Cyrops                                       | [Twitter](https://twitter.com/muhammetadibas) \| [LinkedIn]( https://www.linkedin.com/in/muhammetadibas/) \| [GitHub](https://github.com/muhammetsahinadibas)                 |
 | 375     | Ebrar Altunkaynak    | -                                       | [Twitter](https://twitter.com/ebrardev) | [LinkedIn]( https://www.linkedin.com/in/ebrarmeadev/) | [GitHub](https://github.com/ebrardev)                 | Junior go developer
-
+|376|Mehmet Emin Öz|Monopayments| [Github](https://github.com/eminoz)|go and vue
