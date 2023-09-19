@@ -384,3 +384,4 @@ Go Türkiye Topluluğu: https://kommunity.com/goturkiye
 | 374     | Muhammet Şahin ADİBAŞ     | Cyrops                                       | [Twitter](https://twitter.com/muhammetadibas) \| [LinkedIn]( https://www.linkedin.com/in/muhammetadibas/) \| [GitHub](https://github.com/muhammetsahinadibas)                 |
 | 375     | Ebrar Altunkaynak    | -                                       | [Twitter](https://twitter.com/ebrardev) | [LinkedIn]( https://www.linkedin.com/in/ebrarmeadev/) | [GitHub](https://github.com/ebrardev)                 | Junior go developer
 |376|Mehmet Emin Öz|Monopayments| [Github](https://github.com/eminoz)|go and vue
+| 377     | Metin Münüklü         | CRYPTTECH                                     | [Linkedin](https://www.linkedin.com/in/mtnmunuklu/) \| [Github](https://github.com/mtnmunuklu) | Cyber Security Engineer
